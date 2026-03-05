@@ -1,0 +1,8 @@
+- 推荐项目
+    - [JS Guide](https://jsguide.cn/)
+    - [docsify](https://docsify.js.org/#/zh-cn/)
+    - [VuePress](https://vuepress.vuejs.org/zh/)
+- 关于作者
+    - [卡洛](https://corecabin.cn/about/)
+    - [GitHub 主页](https://github.com/kaluojushi)
+    - [卡洛的核心舱](https://corecabin.cn/)
