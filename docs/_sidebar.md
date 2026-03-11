@@ -1,0 +1,4 @@
+- [静态页面部署](pages/)
+  - [GitHub Pages](pages/github/)
+  - [Vercel](pages/vercel/)
+    - [绑定自定义域名](pages/vercel/domain.md)
